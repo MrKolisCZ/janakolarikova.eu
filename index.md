@@ -1,4 +1,3 @@
-Jana Koláříková
-=========
 
-.... is working on it :-)
+
+Jana ... is working on it :-)
