@@ -11,9 +11,9 @@ deploy:
   fqdn: www.janakolarikova.eu
   local-dir: _site
   skip-cleanup: true
-  # https://docs.travis-ci.com/user/deployment/pages/#setting-the-github-token
-  # https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/#creating-a-token
+#  # https://docs.travis-ci.com/user/deployment/pages/#setting-the-github-token
+#  # https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/#creating-a-token
   github-token: $GH_PAGES_DEPLOY_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
   on:
-      branch: master
+      branch: gh-pages
