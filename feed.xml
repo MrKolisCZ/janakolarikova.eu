@@ -1,2 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-15T09:08:41+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jana Koláříková</title><subtitle>Webová stránka Jany Koláříkové pro kandidaturu do evropského parlamentu na kandidátce Pirátů. Najdete zde prezentaci jejích stanovisek, názorů a rovněž životopis kandidátky.
-</subtitle><author><name>Jana Koláříková</name></author><entry><title type="html">Článek</title><link href="http://localhost:4000/2019/clanek.html" rel="alternate" type="text/html" title="Článek" /><published>2019-01-10T18:00:00+01:00</published><updated>2019-01-10T18:00:00+01:00</updated><id>http://localhost:4000/2019/clanek</id><content type="html" xml:base="http://localhost:4000/2019/clanek.html">&lt;p&gt;Text lorem ipsum&lt;/p&gt;</content><author><name>Zbyněk Konvička</name></author><summary type="html">Text lorem ipsum</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-15T23:18:42+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jana Koláříková</title><subtitle>Webová stránka Jany Koláříkové pro kandidaturu do evropského parlamentu na kandidátce Pirátů. Najdete zde prezentaci jejích stanovisek, názorů a rovněž životopis kandidátky.
+</subtitle><author><name>Jana Koláříková</name></author><entry><title type="html">Kandidáti v primárních volbách se představují</title><link href="http://localhost:4000/2019/medailonek.html" rel="alternate" type="text/html" title="Kandidáti v primárních volbách se představují" /><published>2019-01-15T18:00:00+01:00</published><updated>2019-01-15T18:00:00+01:00</updated><id>http://localhost:4000/2019/medailonek</id><content type="html" xml:base="http://localhost:4000/2019/medailonek.html">&lt;p&gt;Kdo je Jana Koláříková, kandidátka v primárních volbách do Europarlamentu ?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;b&gt;Jana Koláříková (1986)&lt;/b&gt; je Pirátkou z Jihočeského kraje.
+Po ukončení střední pedagogické školy pracovala nejdříve v ČR,
+následně se ale přesunula do Velké Británie, kde studovala
+a pracovala pro neziskovou organizaci.&lt;/p&gt;
+
+&lt;p&gt;Poté odcestovala do afrického Malawi, kde se věnovala rozvojové práci
+v oblasti vzdělávání, vedla vzdělávací kurzy pro učitele a knihovníky
+a pracovala na rozvoji předškolního, školního i mimoškolního vzdělávání.
+V Malawi dodnes používají její vzdělávací materiál o rozvoji jazyka
+a gramotnosti. Dodnes tam také funguje mateřská škola postavená
+z prostředků fundraisingové kampaně, kterou zorganizovala.&lt;/p&gt;
+
+&lt;p&gt;Po návratu do ČR pracovala v neziskovém sektoru a specializovala se na drogovou problematiku v kontaktním centru. Od roku 2013 je členkou Pirátské strany, kde postupně pracovala jako krajská místopředsedkyně, krajská koordinátorka a vedoucí Personálního odboru, kterou je dosud. V europarlamentu se chce zabývat tématy, která poznala na základě vlastní praxe. Tedy waste managementem, kvalitou potravin, vzděláváním, zdravotní péčí a lidskými právy.&lt;/p&gt;</content><author><name>Jana Koláříková</name></author><summary type="html">Kdo je Jana Koláříková, kandidátka v primárních volbách do Europarlamentu ?</summary></entry></feed>
