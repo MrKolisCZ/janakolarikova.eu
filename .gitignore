@@ -11,3 +11,4 @@ Gemfile.lock
 vendor
 
 run.sh
+*.sw[op]
